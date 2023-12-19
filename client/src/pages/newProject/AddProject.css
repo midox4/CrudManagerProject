@@ -1,0 +1,138 @@
+.desktopP {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .desktopP .divP {
+    background-color: #ffffff;
+    height: 1024px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .desktopP .text-wrapperP {
+    color: #000000;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 36px;
+    font-weight: 700;
+    left: 575px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 34px;
+  }
+  
+  .desktopP .text-wrapper-2P {
+    color: #0019fd;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 906px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 118px;
+    
+  }
+  
+  .desktopP .groupP {
+    height: 364px;
+    left: 317px;
+    position: absolute;
+    top: 166px;
+    width: 807px;
+  }
+  
+  .desktopP .overlap-groupP {
+    height: 364px;
+    position: relative;
+  }
+  
+  .desktopP .frameP {
+    align-items: flex-start;
+    border: 5px solid;
+    border-color: #000000;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 33px;
+    left: 0;
+    padding: 66px 53px;
+    position: absolute;
+    top: 25px;
+  }
+  
+  .desktopP .frame-2P {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 88px;
+    position: relative;
+  }
+  
+  .desktopP .text-wrapper-3P {
+    color: #000000;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .desktopP .rectangleP {
+    background-color: #d9d9d9;
+    height: 46px;
+    position: relative;
+    width: 529px;
+  }
+  
+  .desktopP .frame-3P {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 64px;
+    position: relative;
+  }
+  
+  .desktopP .div-wrapperP {
+    align-items: center;
+    background-color: #91adf6;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 10px;
+    justify-content: center;
+    padding: 10px;
+    position: relative;
+    width: 701px;
+  }
+  
+  .desktopP .text-wrapper-4P {
+    color: #000000;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+    cursor: pointer;
+
+  }
+  
+  .desktopP .frame-4P {
+    align-items: center;
+    background-color: #ffffff;
+    display: inline-flex;
+    gap: 10px;
+    justify-content: center;
+    left: 82px;
+    padding: 10px;
+    position: absolute;
+    top: 0;
+  }
+  

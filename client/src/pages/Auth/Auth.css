@@ -1,0 +1,139 @@
+.desktopA {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .desktopA .divA {
+    background-color: #ffffff;
+    height: 1024px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .desktopA .text-wrapperA {
+    color: #000000;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 36px;
+    font-weight: 700;
+    left: 575px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 34px;
+  }
+  
+  .desktopA .frameA {
+    align-items: center;
+    border: 5px solid;
+    border-color: #000000;
+    display: flex;
+    flex-direction: column;
+    gap: 33px;
+    left: 188px;
+    padding: 0px 0px 10px;
+    position: absolute;
+    top: 129px;
+    width: 519px;
+  }
+  
+  .desktopA .div-wrapperA {
+    align-items: center;
+    align-self: stretch;
+    background-color: #a3a5ac;
+    border: 5px solid;
+    border-color: #000000;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 10px;
+    justify-content: center;
+    padding: 15px 10px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .desktopA .text-wrapper-2A {
+    color: #000000;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -5px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .desktopA .frame-2A {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 35px;
+    position: relative;
+  }
+  
+  .desktopA .text-wrapper-3A {
+    color: #000000;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    width: 121px;
+  }
+  
+  .desktopA .rectangleA {
+    background-color: #d9d9d9;
+    height: 60px;
+    position: relative;
+    width: 327px;
+  }
+  
+  .desktopA .frame-3A {
+    align-items: center;
+    background-color: #91adf6;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 10px;
+    justify-content: center;
+    padding: 10px;
+    position: relative;
+    width: 483px;
+  }
+  
+  .desktopA .text-wrapper-4A {
+    color: #000000;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+    cursor: pointer;
+  }
+  
+  .desktopA .frame-4A {
+    align-items: center;
+    border: 5px solid;
+    border-color: #000000;
+    display: flex;
+    flex-direction: column;
+    gap: 33px;
+    height: 523px;
+    left: 755px;
+    padding: 0px 0px 10px;
+    position: absolute;
+    top: 129px;
+    width: 519px;
+  }
+  button{
+    background: transparent;
+    border: none;
+    outline: none;
+  }
+  
